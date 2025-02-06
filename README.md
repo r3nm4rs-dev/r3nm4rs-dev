@@ -4,9 +4,6 @@
   </a>
 </p>
 
-![TROPHY](https://github-profile-trophy.vercel.app/?username=r3nm4rss&theme=darkhub&margin-w=10)
-
-
 # Something about me ...
 - 👋 Yo, I’m **[@r3nm4rss](https://github.com/r3nm4rs-dev)** !
 - ⚜️ I am a French developer from Quebec.
@@ -26,9 +23,9 @@
 
 ## Contact me
 - 📫 How to reach me:
-  - **Discord**: **``@r3nm4rss_term``**:
+  - **Discord**: **``@r3nm4rss_v2``**:
   
-![My Server](https://discord.com/api/guilds/1326313304150376499/widget.png?style=banner2)
+![My Server](https://discord.com/api/guilds/1331719659816353834/widget.png?style=banner2)
 
 
-  - **@mail profesional**: **r3nm4rsss@proton.me**
+  - **mail profesional**: **r3nm4rsss@proton.me**
