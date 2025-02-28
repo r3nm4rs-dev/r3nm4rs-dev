@@ -1,5 +1,5 @@
 <p align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:1331242382167117994)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/1331242382167117994)
   </a>
 </p>
 
