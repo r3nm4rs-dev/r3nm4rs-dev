@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://discord.com/users/1331242382167117994">
-    <img src="[api.lanyard.rest/v1/users/1331242382167117994](https://visualizer.eggsy.xyz/1331242382167117994)" alt="Discord Profile"/>
+    <img src="https://visualizer.eggsy.xyz/1331242382167117994" alt="Discord Profile"/>
   </a>
 </p>
 
