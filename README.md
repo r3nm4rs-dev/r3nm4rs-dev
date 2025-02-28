@@ -1,11 +1,11 @@
 <p align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/1331242382167117994)
   </a>
 </p>
 
 # Something about me ...
 - 👋 Yo, I’m **[@r3nm4rss](https://github.com/r3nm4rs-dev)** !
 - ⚜️ I am a French developer from Quebec.
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/1331242382167117994)
 
 ## My learning projects
 
