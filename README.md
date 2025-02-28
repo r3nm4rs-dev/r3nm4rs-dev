@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://discord.com/users/1331242382167117994">
-    <img src="https://visualizer.eggsy.xyz/1331242382167117994" alt="Discord Profile"/>
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:1331242382167117994)
   </a>
 </p>
 
