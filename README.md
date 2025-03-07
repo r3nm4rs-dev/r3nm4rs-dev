@@ -1,6 +1,4 @@
-<div align="center">
 [![Discord Server Invite](https://invite.casperiv.dev?inviteCode=1341393313151979551)](https://discord.gg/1341393313151979551)
-</div>
 
 # Something about me ...
 - 👋 Yo, I’m **[@r3nm4rss](https://github.com/r3nm4rs-dev)** !
