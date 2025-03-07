@@ -1,6 +1,5 @@
 <div align="center">
   <a href="https://discord.com/users/1331242382167117994">
-    sandbox="allow-scripts"
     <img src="https://widgets.vendicated.dev/user?id=1331242382167117994&theme=dark&banner=false&full-banner=false&rounded-corners=true&discord-icon=true&badges=false&guess-nitro=false&" />
   </a>
 </div>
