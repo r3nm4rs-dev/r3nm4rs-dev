@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://discord.com/users/1331242382167117994">
-    <img src="https://widgets.vendicated.dev/user?id=1331242382167117994&theme=dark&banner=false&full-banner=false&rounded-corners=true&discord-icon=true&badges=false&guess-nitro=false&" />
-  </a>
+[![Discord Server Invite](https://invite.casperiv.dev?inviteCode=1341393313151979551)](https://discord.gg/1341393313151979551)
 </div>
 
 # Something about me ...
