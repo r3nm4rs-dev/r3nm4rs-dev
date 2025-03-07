@@ -1,11 +1,9 @@
-<iframe
-    title="Discord user embed"
-    width="340"
-    height="72"
-    frameborder="0"
+<div align="center">
+  <a href="https://discord.com/users/1331242382167117994">
     sandbox="allow-scripts"
-    src="https://widgets.vendicated.dev/user?id=1331242382167117994&theme=dark&banner=false&full-banner=false&rounded-corners=true&discord-icon=true&badges=false&guess-nitro=false&"
-></iframe>
+    <img src="https://widgets.vendicated.dev/user?id=1331242382167117994&theme=dark&banner=false&full-banner=false&rounded-corners=true&discord-icon=true&badges=false&guess-nitro=false&" />
+  </a>
+</div>
 
 # Something about me ...
 - 👋 Yo, I’m **[@r3nm4rss](https://github.com/r3nm4rs-dev)** !
