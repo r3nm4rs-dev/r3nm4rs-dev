@@ -1,6 +1,8 @@
-<p align="center">
+<div align="center">
+  <a href="https://discord.com/users/1331242382167117994">
+    <img src="https://lanyard.cnrad.dev/api/1331242382167117994?theme=dark&animated=true&hideStatus=false&hideClan=false&hideProfile=false&hideSpotify=false&showDisplayName=false&hideDecoration=false&hideTimestamp=false&hideBadges=false&hideActivity=true&hideDiscrim=false" />
   </a>
-</p>
+</div>
 
 # Something about me ...
 - 👋 Yo, I’m **[@r3nm4rss](https://github.com/r3nm4rs-dev)** !
