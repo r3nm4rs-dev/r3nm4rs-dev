@@ -20,3 +20,7 @@
   - **Discord**: **``@r3nm4rsss``**:
   - **Server**: https://discord.gg/gVATum7qu6
   - **Mail profesional**: **r3nm4rsss@proton.me**
+ 
+**Website Status**
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3835d3f6-16fb-4864-a28f-0ead5a1cf1c1/deploy-status)](https://app.netlify.com/projects/r3nm4rss/deploys)
+
