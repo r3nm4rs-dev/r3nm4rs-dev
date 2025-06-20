@@ -13,7 +13,7 @@
 
 ## Contact me
 
-[![Discord Server Invite](https://invite.casperiv.dev?inviteCode=HK83Ayw9nH)](https://discord.gg/pluzio)
+[![Discord Server Invite](https://discord.gg/pluzio)]
 
 
 - 📫 How to reach me:
