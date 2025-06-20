@@ -13,12 +13,12 @@
 
 ## Contact me
 
-[![Discord Server Invite](https://invite.casperiv.dev?inviteCode=HK83Ayw9nH)](https://discord.gg/HK83Ayw9nH)
+[![Discord Server Invite](https://invite.casperiv.dev?inviteCode=HK83Ayw9nH)](https://discord.gg/pluzio)
 
 
 - 📫 How to reach me:
   - **Discord**: **``@r3nm4rsss``**:
-  - **Server**: https://discord.gg/gVATum7qu6
+  - **Server**: https://discord.gg/pluzio
   - **Mail profesional**: **r3nm4rsss@proton.me**
  
 **Website Status**
