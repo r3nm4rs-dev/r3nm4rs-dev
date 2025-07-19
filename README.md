@@ -13,7 +13,7 @@
 
 ## Contact me
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:1331242382167117994)](https://discord.com/users/:1331242382167117994)
+[![Discord Server Card](https://cardzera.audibert.dev/api/:serverId?t={timestamp})](https://discord.gg/yZYnX5GzNm)
 
 
 - 📫 How to reach me:
