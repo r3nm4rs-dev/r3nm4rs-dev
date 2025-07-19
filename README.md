@@ -13,7 +13,7 @@
 
 ## Contact me
 
-[![Discord Server Invite](https://discord.gg/pluzio)]
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:1331242382167117994)
 
 
 - 📫 How to reach me:
