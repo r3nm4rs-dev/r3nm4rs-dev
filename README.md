@@ -18,7 +18,7 @@
 
 - 📫 How to reach me:
   - **Discord**: **``@r3nm4rsss``**:
-  - **Server**: https://discord.gg/pluzio
+  - **Server**: https://discord.gg/3XkqpjTpjd
   - **Mail profesional**: **r3nm4rsss@proton.me**
  
 **Website Status**
