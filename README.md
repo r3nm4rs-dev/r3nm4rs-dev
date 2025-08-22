@@ -13,7 +13,7 @@
 
 ## Contact me
 
-[![Discord Server Card](https://cardzera.audibert.dev/api/:1400540390775324784?t={timestamp})](https://discord.gg/3XkqpjTpjd)
+[![Discord Server Card](https://cardzera.audibert.dev/api/1400540390775324784?t={timestamp})](https://discord.gg/3XkqpjTpjd)
 
 
 - 📫 How to reach me:
